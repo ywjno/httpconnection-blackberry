@@ -1,0 +1,53 @@
+## RIM Java Development Environment
+# RIM Project file
+AlwaysBuild=0
+[AlxImports
+]
+AutoRestart=0
+[BuildOnlyFiles
+]
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependencyFiles
+]
+[DependsOn
+]
+ExcludeFromBuildAll=0
+[Files
+AsynchronousHttpUrlGetter.java
+DirectTcpParams.java
+HttpCreateUrl.java
+HttpProj.java
+HttpProjScreen.java
+HttpUrlTextReceiver.java
+HttpUtil.java
+Pair.java
+Wap1Params.java
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+]
+[Imports
+]
+Listing=0
+NoImport=0
+Options=-quiet
+OutputFileName=httpproj
+[PackageProtection
+]
+RibbonPosition=0
+RunOnStartup=0
+StartupTier=7
+SystemModule=0
+Title=Http Network Diagnostics
+Type=0
+Vendor=Bist LLC
+Version=1.2
